@@ -6,7 +6,7 @@
     "descripcion": "Crema 1",
     "precio": 899.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/1.jpeg"
+    "urlImagen": "/image/ImgProductos/1.jpeg"
   },
   {
     "idCategoria": 1,
@@ -15,7 +15,7 @@
     "descripcion": "Crema 2",
     "precio": 1499.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/2.jpeg"
+    "urlImagen": "/image/ImgProductos/2.jpeg"
   }, 
   {
     "idCategoria": 1,
@@ -24,7 +24,7 @@
     "descripcion": "Crema 3",
     "precio": 2999.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/3.jpeg"
+    "urlImagen": "/image/ImgProductos/3.jpeg"
   }, 
   {
     "idCategoria": 2,
@@ -33,7 +33,7 @@
     "descripcion": "Anillos 1",
     "precio": 899.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/4.jpeg"
+    "urlImagen": "/image/ImgProductos/4.jpeg"
   }, 
   {
     "idCategoria": 2,
@@ -42,7 +42,7 @@
     "descripcion": "Anillos 2",
     "precio": 899.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/5.jpeg"
+    "urlImagen": "/image/ImgProductos/5.jpeg"
   }, 
   {
     "idCategoria": 2,
@@ -51,7 +51,7 @@
     "descripcion": "Anillos 3",
     "precio": 899.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/6.jpeg"
+    "urlImagen": "/image/ImgProductos/6.jpeg"
   }, 
   {
     "idCategoria": 2,
@@ -60,7 +60,7 @@
     "descripcion": "Pantalon",
     "precio": 11999.99,
     "stock": 100,
-    "urlImagen": "./Image/ImgProductos/7.jpeg"
+    "urlImagen": "/image/ImgProductos/7.jpeg"
   }, 
   {
     "idCategoria": 2,
@@ -69,7 +69,7 @@
     "descripcion": "Remera",
     "precio": 5999.99,
     "stock": 100,
-    "urlImagen": "./image/ImgProductos/8.jpeg"
+    "urlImagen": "/image/ImgProductos/8.jpeg"
   },
   {
     "idCategoria": 3,
@@ -78,6 +78,6 @@
     "descripcion": "Set de escoba",
     "precio": 7999.99,
     "stock": 99,
-    "urlImagen": "./image/ImgProductos/9.jpeg"
+    "urlImagen": "/image/ImgProductos/9.jpeg"
   }
 ]
